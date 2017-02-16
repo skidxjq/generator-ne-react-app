@@ -11,7 +11,10 @@
     "url": "git+https://github.com/skidxjq/generator-ne-react-app.git"
   },
   "keywords": [
-    "[yeoman-generator,ne-react-app]"
+    ["yeoman-generator", "ne-react-app"]
+  ],
+  "files": [
+    "generators"
   ],
   "author": "hzxiejiaquan",
   "license": "ISC",
