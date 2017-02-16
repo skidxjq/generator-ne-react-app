@@ -1,0 +1,25 @@
+{
+  "name": "generator-ne-react-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skidxjq/generator-ne-react-app.git"
+  },
+  "keywords": [
+    "[yeoman-generator,ne-react-app]"
+  ],
+  "author": "hzxiejiaquan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skidxjq/generator-ne-react-app/issues"
+  },
+  "homepage": "https://github.com/skidxjq/generator-ne-react-app#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.0"
+  }
+}
